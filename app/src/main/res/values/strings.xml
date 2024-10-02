@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SubmissionOne</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="dicodind_event">Dicodind Event</string>
+    <string name="recomendation_event_for_you">Recomendation Event For you!</string>
+    <string name="dicoding_finished_event">Dicoding Finished Event</string>
+    <string name="start_date">Start Date : %1$s</string>
+    <string name="end_date">End Date : %1$s</string>
+    <string name="category">Category : %1$s</string>
+    <string name="event_finished">Event Finished</string>
+    <string name="dicoding_events">Dicoding Events</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_event">Finished Event</string>
+    <string name="error_fetching_data">Error Fetching Data</string>
+    <string name="carouosel_image">Carouosel Image</string>
+    <string name="image_list_post">Image List Post</string>
+    <string name="owner_event">Owner Event \"%1$s\"</string>
+    <string name="location">Location %1$s</string>
+    <string name="sisa_quota">Sisa quota : %1$s</string>
+</resources>
